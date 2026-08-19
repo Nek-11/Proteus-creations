@@ -1,0 +1,401 @@
+[
+  {
+    "id": "synapse-ml",
+    "company": "Synapse Medicine",
+    "role": "AI / ML opportunity",
+    "location": "Bordeaux · hybrid",
+    "url": "https://careers.synapse-medicine.com/en",
+    "status": "researching",
+    "priority": 5,
+    "fit": "AI product work with a strong health impact; lead with AI architecture + stakeholder translation.",
+    "next_action": "Scan open roles and tailor a 3-line pitch around EHL AI Tutor + production AI delivery.",
+    "tags": [
+      "AI",
+      "health",
+      "Bordeaux"
+    ]
+  },
+  {
+    "id": "pontos",
+    "company": "Pontos.ai",
+    "role": "AI / product conversation",
+    "location": "Bordeaux · contact",
+    "url": "https://www.pontos.ai/contact",
+    "status": "to-contact",
+    "priority": 4,
+    "fit": "Good lightweight door into a Bordeaux AI company; a warm, specific message beats a generic CV.",
+    "next_action": "Send a short intro and ask who owns AI product / consulting hiring.",
+    "tags": [
+      "AI",
+      "startup"
+    ]
+  },
+  {
+    "id": "klark",
+    "company": "Klark",
+    "role": "AI / automation opportunity",
+    "location": "Bordeaux · explore",
+    "url": "https://www.klark.ai/en",
+    "status": "to-contact",
+    "priority": 4,
+    "fit": "Relevant overlap with practical AI systems and clear communication for non-technical teams.",
+    "next_action": "Review product positioning, then connect with a founder or hiring lead.",
+    "tags": [
+      "AI",
+      "automation"
+    ]
+  },
+  {
+    "id": "qucit",
+    "company": "Qucit",
+    "role": "AI / data opportunity",
+    "location": "Bordeaux · explore",
+    "url": "https://qucit.com/",
+    "status": "researching",
+    "priority": 3,
+    "fit": "Strong technical adjacency: applied data and decision systems.",
+    "next_action": "Find one recent product or case study to reference in outreach.",
+    "tags": [
+      "data",
+      "AI"
+    ]
+  },
+  {
+    "id": "betclic",
+    "company": "Betclic Group",
+    "role": "AI / data roles",
+    "location": "Bordeaux · careers",
+    "url": "https://betclicgroup.com/jobs/#offers",
+    "status": "watching",
+    "priority": 3,
+    "fit": "Larger employer option; useful benchmark for local senior AI / data openings.",
+    "next_action": "Check roles weekly and save any product-facing AI opening.",
+    "tags": [
+      "scale-up",
+      "data"
+    ]
+  },
+  {
+    "id": "geev",
+    "company": "Geev",
+    "role": "AI / product opportunity",
+    "location": "Bordeaux · explore",
+    "url": "https://www.geev.com/en",
+    "status": "watching",
+    "priority": 2,
+    "fit": "Mission-led product where experimentation and user empathy could stand out.",
+    "next_action": "Research whether the team is hiring for product, data, or partnerships.",
+    "tags": [
+      "impact",
+      "product"
+    ]
+  },
+  {
+    "id": "pollen",
+    "company": "Pollen Robotics",
+    "role": "Robotics / AI opportunity",
+    "location": "Bordeaux · explore",
+    "url": "https://www.pollen-robotics.com/about-us/",
+    "status": "to-contact",
+    "priority": 4,
+    "fit": "Excellent robotics + AI narrative match with EPFL robotics background.",
+    "next_action": "Prepare a robotics-specific portfolio angle and identify the right contact.",
+    "tags": [
+      "robotics",
+      "AI"
+    ]
+  },
+  {
+    "id": "delfox",
+    "company": "Delfox",
+    "role": "Robotics / AI opportunity",
+    "location": "Bordeaux · explore",
+    "url": "https://www.delfox.net/",
+    "status": "researching",
+    "priority": 4,
+    "fit": "Direct fit for applied AI and robotics; strongest technical story in the list.",
+    "next_action": "Map two relevant projects to their domain and draft a focused message.",
+    "tags": [
+      "robotics",
+      "AI"
+    ]
+  },
+  {
+    "id": "tldr",
+    "company": "TLDR AI",
+    "role": "AI curator · 5–10h/week",
+    "location": "Remote · $100/hr",
+    "url": "mailto:jobs@tldr.tech?subject=AI%20curator%20application",
+    "status": "ready-to-apply",
+    "priority": 5,
+    "fit": "Immediate side opportunity aligned with staying current in AI and explaining it clearly.",
+    "next_action": "Send LinkedIn/resume plus a few sentences on how you track AI news.",
+    "tags": [
+      "remote",
+      "writing",
+      "AI"
+    ]
+  },
+  {
+    "id": "scaleway-storage-pm",
+    "company": "Scaleway",
+    "role": "Product Manager - Storage",
+    "location": "Bordeaux · hybrid",
+    "url": "https://jobs.lever.co/scaleway/12086374-35bc-49e4-9fa3-63b9df97da0b",
+    "status": "ready-to-apply",
+    "priority": 5,
+    "fit": "Strong product/technical match: cloud infrastructure, storage, roadmap ownership, customer discovery, and data-driven product decisions.",
+    "next_action": "Tailor your portfolio around AI product delivery, technical stakeholder translation, and shipping production systems.",
+    "tags": [
+      "AI",
+      "product",
+      "cloud",
+      "Bordeaux"
+    ],
+    "arrangement": "Hybrid · up to 3 remote days/week",
+    "checked": "2026-08-19",
+    "source_type": "live specific listing",
+    "official_url": "https://jobs.lever.co/scaleway/12086374-35bc-49e4-9fa3-63b9df97da0b",
+    "official_source": "Scaleway / Lever",
+    "discovery_url": "https://www.linkedin.com/company/scaleway/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "scaleway-object-storage-pm",
+    "company": "Scaleway",
+    "role": "Object Storage Senior Product Manager",
+    "location": "Bordeaux · hybrid",
+    "url": "https://jobs.lever.co/scaleway/116db374-dc49-45ab-999d-cba39232d00e",
+    "status": "ready-to-apply",
+    "priority": 5,
+    "fit": "Senior technical product leadership around IaaS, storage, data/AI pipeline industrialization, and cross-functional delivery.",
+    "next_action": "Position your Novatix experience as owning ambiguous AI initiatives from user need to robust delivery.",
+    "tags": [
+      "AI",
+      "product",
+      "IaaS",
+      "Bordeaux"
+    ],
+    "arrangement": "Hybrid · up to 3 remote days/week",
+    "checked": "2026-08-19",
+    "source_type": "live specific listing",
+    "official_url": "https://jobs.lever.co/scaleway/116db374-dc49-45ab-999d-cba39232d00e",
+    "official_source": "Scaleway / Lever",
+    "discovery_url": "https://www.linkedin.com/company/scaleway/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "exalt-mlops",
+    "company": "eXalt",
+    "role": "Machine Learning Engineer — ML, Python & MLOps",
+    "location": "Bordeaux · hybrid",
+    "url": "https://www.welcometothejungle.com/fr/companies/exalt/jobs/machine-learning-engineer-ml-python-mlops_bordeaux",
+    "status": "ready-to-apply",
+    "priority": 5,
+    "fit": "Direct match for production ML, Python, MLOps, model deployment, monitoring, cloud, and infrastructure collaboration.",
+    "next_action": "Map one deployed AI system and one evaluation/monitoring workflow to the role requirements.",
+    "tags": [
+      "ML",
+      "MLOps",
+      "Python",
+      "Bordeaux"
+    ],
+    "arrangement": "Hybrid / telework authorized",
+    "checked": "2026-08-19",
+    "source_type": "live specific listing",
+    "official_url": "https://www.welcometothejungle.com/fr/companies/exalt/jobs/machine-learning-engineer-ml-python-mlops_bordeaux",
+    "official_source": "Welcome to the Jungle",
+    "discovery_url": "https://fr.linkedin.com/jobs/view/machine-learning-engineer-ml-python-mlops-at-exalt-4454747854",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "lectra-team-lead-ai",
+    "company": "Lectra",
+    "role": "Team Lead IA H/F",
+    "location": "Cestas · Bordeaux region · on-site base",
+    "url": "https://www.welcometothejungle.com/en/companies/lectra/jobs/team-lead-ia-h-f_cestas",
+    "status": "researching",
+    "priority": 4,
+    "fit": "Excellent leadership fit: AI agents, AI-augmented applications, delivery management, industrialization, governance, and stakeholder translation.",
+    "next_action": "Verify it is still open, then lead with your combination of technical delivery and client-facing AI work.",
+    "tags": [
+      "AI",
+      "leadership",
+      "agents",
+      "Cestas"
+    ],
+    "arrangement": "On-site base; telework framework to confirm",
+    "checked": "2026-08-19",
+    "source_type": "live listing; verify age",
+    "official_url": "https://www.welcometothejungle.com/en/companies/lectra/jobs/team-lead-ia-h-f_cestas",
+    "official_source": "Welcome to the Jungle",
+    "discovery_url": "https://www.linkedin.com/company/lectra/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "lectra-ai-gtm",
+    "company": "Lectra",
+    "role": "Responsable IA GTM H/F",
+    "location": "Cestas · Bordeaux region · on-site base",
+    "url": "https://www.welcometothejungle.com/fr/companies/lectra/jobs/responsable-ia-gtm-h-f_cestas",
+    "status": "researching",
+    "priority": 4,
+    "fit": "Strong applied-AI strategy fit: CRM/RevOps, LLM use cases, cross-functional leadership, and scaling AI from pilot to production.",
+    "next_action": "Confirm availability and on-site expectations; prepare a product-facing AI transformation case study.",
+    "tags": [
+      "AI",
+      "strategy",
+      "LLM",
+      "Cestas"
+    ],
+    "arrangement": "Primarily on-site pending confirmation",
+    "checked": "2026-08-19",
+    "source_type": "live listing; verify age",
+    "official_url": "https://www.welcometothejungle.com/fr/companies/lectra/jobs/responsable-ia-gtm-h-f_cestas",
+    "official_source": "Welcome to the Jungle",
+    "discovery_url": "https://www.linkedin.com/company/lectra/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "nexton-ai-engineer",
+    "company": "NEXTON",
+    "role": "AI Engineer H/F",
+    "location": "Bordeaux · arrangement to confirm",
+    "url": "https://www.welcometothejungle.com/fr/companies/nexton-consulting/jobs/ai-engineer-h-f_bordeaux",
+    "status": "researching",
+    "priority": 4,
+    "fit": "Relevant GenAI engineering role covering Azure OpenAI, RAG, agents, MCP, Python production systems, observability, governance, and secure deployment.",
+    "next_action": "Confirm the office/remote split before investing time; then map your chatbot and production-AI work to the stack.",
+    "tags": [
+      "GenAI",
+      "RAG",
+      "agents",
+      "Bordeaux"
+    ],
+    "arrangement": "Bordeaux-based; hybrid split not stated",
+    "checked": "2026-08-19",
+    "source_type": "live specific listing; arrangement to confirm",
+    "official_url": "https://www.welcometothejungle.com/fr/companies/nexton-consulting/jobs/ai-engineer-h-f_bordeaux",
+    "official_source": "Welcome to the Jungle",
+    "discovery_url": "https://www.linkedin.com/company/nexton-consulting/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "atos-snowflake-dbt",
+    "company": "Atos",
+    "role": "Ingénieur Data Snowflake & DBT (F/H)",
+    "location": "Pessac · Bordeaux area · hybrid",
+    "url": "https://jobs.atos.net/job/Pessac-Ing%C3%A9nieur-Data-Snowflake-&-DBT-%28FH%29/1368449933",
+    "status": "researching",
+    "priority": 3,
+    "fit": "Solid data-platform role in a Bordeaux Snowflake center of competence: architecture, ingestion, performance, and scalable data systems.",
+    "next_action": "Decide whether the platform focus is worth pursuing; emphasize ML-adjacent data systems and cross-functional delivery.",
+    "tags": [
+      "data",
+      "Snowflake",
+      "dbt",
+      "Pessac"
+    ],
+    "arrangement": "Hybrid / telework accepted",
+    "checked": "2026-08-19",
+    "source_type": "live specific listing",
+    "official_url": "https://jobs.atos.net/job/Pessac-Ing%C3%A9nieur-Data-Snowflake-&-DBT-%28FH%29/1368449933",
+    "official_source": "Atos Careers",
+    "discovery_url": "https://www.linkedin.com/company/atos/jobs/",
+    "discovered_via": "LinkedIn"
+  },
+  {
+    "id": "datadog-ai-emea",
+    "company": "Datadog",
+    "role": "Senior Software Engineer - AI (EMEA)",
+    "location": "Bordeaux · hybrid",
+    "url": "https://careers.datadoghq.com/detail/8015588",
+    "status": "ready-to-apply",
+    "priority": 5,
+    "fit": "Strong product-facing AI systems fit: AI-native experiences, evaluation of non-deterministic systems, reliable backend engineering, and technical communication.",
+    "next_action": "Check the exact requirements and tailor your AI product/system delivery examples.",
+    "tags": [
+      "AI",
+      "software",
+      "product",
+      "Bordeaux"
+    ],
+    "arrangement": "Hybrid workplace",
+    "checked": "2026-08-19",
+    "source_type": "LinkedIn public result + official careers page",
+    "discovery_url": "https://fr.linkedin.com/jobs/view/senior-software-engineer-ai-emea-at-datadog-4430488777",
+    "discovered_via": "LinkedIn",
+    "official_url": "https://careers.datadoghq.com/detail/8015588",
+    "official_source": "Datadog Careers"
+  },
+  {
+    "id": "mirakl-senior-ai-bordeaux",
+    "company": "Mirakl",
+    "role": "Senior AI Engineer",
+    "location": "Bordeaux · arrangement to confirm",
+    "url": "https://www.mirakl.com/company/careers/jobs",
+    "status": "researching",
+    "priority": 5,
+    "fit": "Strong Bordeaux opportunity for production AI and intelligent-commerce systems; likely a senior technical role.",
+    "next_action": "Open the official board, select the Bordeaux posting, and confirm hybrid/on-site terms before applying.",
+    "tags": [
+      "AI",
+      "senior",
+      "Bordeaux"
+    ],
+    "arrangement": "Bordeaux listed; arrangement to confirm",
+    "checked": "2026-08-19",
+    "source_type": "LinkedIn public result + official careers board",
+    "discovery_url": "https://www.linkedin.com/company/mirakl/jobs",
+    "discovered_via": "LinkedIn",
+    "official_url": "https://www.mirakl.com/company/careers/jobs",
+    "official_source": "Mirakl Careers"
+  },
+  {
+    "id": "mirakl-vp-data-bordeaux",
+    "company": "Mirakl",
+    "role": "VP Data",
+    "location": "Bordeaux · arrangement to confirm",
+    "url": "https://www.mirakl.com/careers/6102819004",
+    "status": "researching",
+    "priority": 3,
+    "fit": "Leadership-level data/AI opportunity; relevant only if you want to position yourself toward broader strategy and organizational ownership.",
+    "next_action": "Assess seniority honestly and confirm the Bordeaux role plus work arrangement.",
+    "tags": [
+      "data",
+      "AI",
+      "leadership",
+      "Bordeaux"
+    ],
+    "arrangement": "Bordeaux listed; arrangement to confirm",
+    "checked": "2026-08-19",
+    "source_type": "LinkedIn public result + official careers page",
+    "discovery_url": "https://fr.linkedin.com/jobs/view/vp-data-at-mirakl-4444141531",
+    "discovered_via": "LinkedIn",
+    "official_url": "https://www.mirakl.com/careers/6102819004",
+    "official_source": "Mirakl Careers"
+  },
+  {
+    "id": "mirakl-lead-ai-bordeaux",
+    "company": "Mirakl",
+    "role": "Lead AI Engineer",
+    "location": "Bordeaux · arrangement to confirm",
+    "url": "https://www.mirakl.com/company/careers/jobs",
+    "status": "researching",
+    "priority": 4,
+    "fit": "Potentially strong senior engineering path around AI product systems; worth checking against your hands-on production experience.",
+    "next_action": "Open the official careers board and confirm the Bordeaux-specific posting and requirements.",
+    "tags": [
+      "AI",
+      "engineering",
+      "Bordeaux"
+    ],
+    "arrangement": "Bordeaux listed; arrangement to confirm",
+    "checked": "2026-08-19",
+    "source_type": "LinkedIn public result + official careers board",
+    "discovery_url": "https://www.linkedin.com/company/mirakl/jobs",
+    "discovered_via": "LinkedIn",
+    "official_url": "https://www.mirakl.com/company/careers/jobs",
+    "official_source": "Mirakl Careers"
+  }
+]
