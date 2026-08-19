@@ -17,7 +17,7 @@ Open <http://127.0.0.1:8765>. Use `--port 8787` if the default is busy.
 
 ## What it does
 
-- Tracks nine sample leads from the Bordeaux job/company note, including Synapse Medicine, Pollen Robotics, Delfox, and the TLDR AI curator role.
+- Tracks Bordeaux-area and nearby AI, data, product, and robotics opportunities.
 - Shows priority, fit rationale, and one concrete next action per lead.
 - Supports instant search and stage filtering.
 - Lets you hide completed leads with ✓. That preference stays only in this browser's `localStorage`.
